@@ -1,0 +1,4 @@
+com\som\Group\config\WebAppInitializer.class
+com\som\Group\config\WebConfig.class
+com\som\Group\config\WebSocketConfig.class
+com\som\Group\controller\RestUserController.class
